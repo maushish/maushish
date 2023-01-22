@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maushish Yadav</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hna8kia2chghjx18i19epw2pgdoygt13bm4eayxg&rid=giphy.gif&ct=g">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I+am+a+Web-Developer;I+am+a+Student;I+am+an+upcoming+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maushish&label=Profile%20views&color=0e75b6&style=flat" alt="maushish" /> </p>
 
